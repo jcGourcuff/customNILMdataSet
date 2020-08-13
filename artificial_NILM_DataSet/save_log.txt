@@ -1,0 +1,35 @@
+Generating 2 classes data sets
+28 data sets to generate
+
+--- 136.0057773590088 seconds ---
+
+Generating 3 classes data sets
+56 data sets to generate
+
+--- 389.69581270217896 seconds ---
+
+Generating 4 classes data sets
+70 data sets to generate
+
+--- 658.151043176651 seconds ---
+
+Generating 5 classes data sets
+56 data sets to generate
+
+--- 774.1340672969818 seconds ---
+
+Generating 6 classes data sets
+28 data sets to generate
+
+--- 467.9428050518036 seconds ---
+
+Generating 7 classes data sets
+8 data sets to generate
+
+--- 124.0680902004242 seconds ---
+
+Generating 8 classes data sets
+1 data sets to generate
+
+--- 21.721714973449707 seconds ---
+
